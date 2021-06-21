@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "Name": "Sama",
+      "Course": "PCMc",
+      "id": 3
+    },
+    {
+      "Name": "thomas",
+      "Course": "PCMC",
+      "id": 4
+    },
+    {
+      "Name": "test",
+      "Course": "testco",
+      "id": 5
+    },
+    {
+      "Name": "John",
+      "Course": "BCA",
+      "id": 6
+    },
+    {
+      "Name": "Sama",
+      "Course": "PCMc",
+      "id": 7
+    },
+    {
+      "Name": "Samahhhhhhh",
+      "Course": "PCMcuiyvujgv",
+      "id": 8
+    },
+    {
+      "Name": "hhvkjgv",
+      "Course": "yftiuf",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
